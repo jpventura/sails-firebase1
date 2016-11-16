@@ -3,3 +3,8 @@
 .*~
 .\#*
 \#*
+
+### Node.JS dependency directories ###
+bower_components
+jspm_packages
+node_modules
